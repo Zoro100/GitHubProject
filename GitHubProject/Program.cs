@@ -13,10 +13,5 @@ namespace GitHubProject
             Car car = new Car();
             
         }
-
-        public static void Data()
-        {
-            
-        }
     }
 }
