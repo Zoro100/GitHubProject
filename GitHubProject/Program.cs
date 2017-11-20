@@ -10,7 +10,7 @@ namespace GitHubProject
     {
         static void Main(string[] args)
         {
-            Car car = new Car();
+            Car car = new Car(1,"marcedes");
             
         }
     }

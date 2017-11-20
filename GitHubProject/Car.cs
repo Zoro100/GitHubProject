@@ -10,5 +10,11 @@ namespace GitHubProject
    {
        private int _id;
        private string _name;
+
+       public Car(int id , string name)
+       {
+           _id = id;
+           _name = name;
+       }
    }
 }
